@@ -59,7 +59,7 @@ http://www.circos.ca/documentation/tutorials/configuration/installation/
     > circos -conf circos.conf
 
 
-For fixing error and modifing the script with more parameters on can refer to **Circos Documentation**. 
+For fixing installatin based errors and modifing the script with more utilities one can refer to **Circos's Documentation**. 
 
 Link for the same is http://www.circos.ca/documentation/tutorials/ .
 
