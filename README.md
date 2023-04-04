@@ -10,10 +10,6 @@ This script is designed to visualize links between different genomic positions *
 2. Perl 5.8.x or newer version is highy recomended
 3. Circos Package
 
-### Install GD and perl modules on Ubuntu
-
-    > sudo apt-get -y install libgd2-xpm-dev
-
 ### Download and Install Circos using Conda 
 ---
 Add bioconda as Conda channel
