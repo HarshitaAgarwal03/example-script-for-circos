@@ -1,8 +1,8 @@
 # Script to Visualize links between genomic positions using Circos package
 
-One of the major challenge in studing large genomic data is its effective visualisation. Reading genomic data is very tedious and repetitive on the same time. Interactive plots like **Circos** helps to visvualise these datasets interactively and attractively. 
+One of the major challenge in studing large genomic data is its effective visualisation. Reading genomic data is very tedious and repetitive on the same time. Interactive plots like **Circos** helps to visvualize these datasets interactively and attractively. 
 
-This script is designed to visualise links between different genomic position **using Perl based Circos package**.
+This script is designed to visualize links between different genomic position **using Perl based Circos package**.
 
 ## Software download
 ### Requirements:
@@ -37,7 +37,7 @@ Adding Path to bashrc
 ---
 **NOTE:** 
 
-you will need to execute ~/.bashrc for it to take effect or close and open new terminal
+you will need to execute **~/.bashrc** for it to take effect or close and open new terminal
 
 ---
 
