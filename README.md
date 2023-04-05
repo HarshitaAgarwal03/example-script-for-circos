@@ -1,13 +1,13 @@
 # Script to Visualize links between genomic positions using Circos package
 
-One of the major challenge in studing large genomic data is its effective visualisation. Reading genomic data is very tedious and repetitive on the same time. Interactive plots like **Circos** helps to visualize these datasets interactively and attractively. 
+One of the major challenges in studing large genomic data is its effective visualisation. Reading genomic data is very tedious and repetitive at the same time. Interactive plots like **Circos** help to visualize these datasets interactively and attractively. 
 
 This script is designed to visualize links between different genomic positions **using Perl based Circos package**.
 
 ## Software download
 ### Requirements:
 1. UNIX system     (Note: one can download Circos on Windows and mac also, but this script is designed for Ubuntu)
-2. Perl 5.8.x or newer version is highy recomended
+2. Perl 5.8.x or newer version is highly recommended
 3. Circos Package
 
 ### Download and Install Circos using Conda 
@@ -54,8 +54,9 @@ http://www.circos.ca/documentation/tutorials/configuration/installation/
 
     > circos -conf circos.conf
 
+**NOTE: Path needs to be specified in the conf file for the data files**
 
-For fixing installatin based errors and modifing the script with more utilities one can refer to **Circos's Documentation**. 
+For fixing installation based errors and modifying the script with more utilities one can refer to **Circos's Documentation**. 
 
 Link for the same is http://www.circos.ca/documentation/tutorials/ .
 
