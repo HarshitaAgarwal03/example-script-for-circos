@@ -56,6 +56,8 @@ http://www.circos.ca/documentation/tutorials/configuration/installation/
 
 **NOTE: Path needs to be specified in the conf file for the data files**
 
+![plot](./example_data/circos.png)
+
 For fixing installation based errors and modifying the script with more utilities one can refer to **Circos's Documentation**. 
 
 Link for the same is http://www.circos.ca/documentation/tutorials/ .
