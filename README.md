@@ -56,7 +56,13 @@ http://www.circos.ca/documentation/tutorials/configuration/installation/
 
 **NOTE: Path needs to be specified in the conf file for the data files**
 
-![plot](./example_data/circos.png)
+---
+
+## Example Result: circos.png
+
+<img src="https://github.com/flawless-niche/example-script-for-circos/blob/main/example_data/circos.png" width="500" height="500">
+
+---
 
 For fixing installation based errors and modifying the script with more utilities one can refer to **Circos's Documentation**. 
 
